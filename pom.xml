@@ -3,4 +3,7 @@
   <groupId>com.mafaruk.docker.simple.app</groupId>
   <artifactId>docker_java_simple_app</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+		<java.version>17</java.version>
+	</properties>
 </project>
